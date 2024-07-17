@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\File Codingan\\C#\\offlinescript\\offlinescript.csproj": {}
+    "C:\\Users\\User\\Documents\\File Codingan\\C#\\Offline Script\\offlinescript\\offlinescript.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\File Codingan\\C#\\offlinescript\\offlinescript.csproj": {
+    "C:\\Users\\User\\Documents\\File Codingan\\C#\\Offline Script\\offlinescript\\offlinescript.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\File Codingan\\C#\\offlinescript\\offlinescript.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\File Codingan\\C#\\Offline Script\\offlinescript\\offlinescript.csproj",
         "projectName": "offlinescript",
-        "projectPath": "C:\\Users\\User\\Documents\\File Codingan\\C#\\offlinescript\\offlinescript.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\File Codingan\\C#\\Offline Script\\offlinescript\\offlinescript.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\File Codingan\\C#\\offlinescript\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\File Codingan\\C#\\Offline Script\\offlinescript\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

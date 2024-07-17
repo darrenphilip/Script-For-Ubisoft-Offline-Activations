@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("offlinescript")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea60fede874c17a0cb746f98887af0eba4356a34")]
 [assembly: System.Reflection.AssemblyProductAttribute("offlinescript")]
 [assembly: System.Reflection.AssemblyTitleAttribute("offlinescript")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
